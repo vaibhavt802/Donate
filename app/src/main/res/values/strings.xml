@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Donate</string>
+    <string name="user_name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="user_note">Note</string>
+    <string-array name="upi">
+        <item>seeds@sc</item>
+        <item>pmcares@sbi</item>
+        <item>odcares@icici</item>
+        <item>apcmrelief@andb</item>
+        <item>cmrfmahacovid19@sbi</item>
+        <item>CHARITIESAIDFOUNDATION.28171105@hdfcbank</item>
+    </string-array>
+</resources>
